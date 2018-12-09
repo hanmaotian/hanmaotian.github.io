@@ -17,11 +17,14 @@
 
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[主页](http://github.com)
 
 
-[GitHub](https://hanmaotian.github.io/1)
+[不大会玩](http://hanmaotian.github.io/1)
+
+
+[另一个开头](https://hanmaotian.github.io/1.github.io)
 
 
 #####  ☺  呵呵  
