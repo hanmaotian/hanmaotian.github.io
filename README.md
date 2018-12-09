@@ -1,6 +1,11 @@
 ##                                      欢迎来到韩茂田造的网页
 
 
+
+[这也算个网页吧？](http://hanmaotian.github.io/1)
+
+
+
 ###                                            一篇短文
 
 人生就是一张答卷。它上面有选择题，填空题，判断题和问答题，但它又不同于一般的答卷。一般的答卷是用手来书写，人生的答卷却是用行动来书写。
@@ -20,20 +25,14 @@
 
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
- 
-
-[主页](http://github.com)
+[另一个仓库里边儿的背景](https://hanmaotian.github.io/1.github.io)
 
 
-[不大会玩](http://hanmaotian.github.io/1)
-
-
-[另一个开头](https://hanmaotian.github.io/1.github.io)
 
 
 #####  ☺  呵呵  
 
-###                  能力也是有限，这个GitHub还是没大玩明白，惭愧啊惭愧。。。
+
+
+
+###   能力也是有限，这个网页制作还是没大玩明白，惭愧啊惭愧。。。
