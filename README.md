@@ -20,7 +20,7 @@
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-https://hanmaotian.github.io/1.github.io/ - automatic!
+
 [GitHub](https://hanmaotian.github.io/1)
 
 
