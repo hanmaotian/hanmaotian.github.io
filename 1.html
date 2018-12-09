@@ -1,10 +1,30 @@
 <!DOCTYPE HTML>
 <html>
-<head>
+<head><!--按钮生成器—三生有幸网 http://www.3464.com-->
+<style>
+
+.thisclass{background-color:#9999FF}
+
+</style>
+<script language="javascript">
+
+function change(color){
+var el=event.srcElement
+if (el.tagName=="INPUT"&&el.type=="button")
+event.srcElement.style.backgroundColor=color
+}
+
+function jumpto2(url){
+window.location=url
+}
+
+</script>
+</head>
 <meta http-equiv="txttent-Type" txttent="text/html; charset=gb2312" />
 <title>不大会玩</title>
 <style type="text/css">
-<body><form onMouseOver="change('#000000')" onMouseOut="change('#9999FF')">
+<body>
+<form onMouseOver="change('#000000')" onMouseOut="change('#9999FF')">
 <input type="button" name="Button" class="thisclass" value="hh" onMouseOver="this.style.color='#009900'" onMouseOut="this.style.color='#99FF99'" onMouseDown="this.style.color='Select:'" style="color:#99FF99; font-family:宋体; font-weight:Select:; font-size:12px;" onClick="jumpto2('')">
 </form>
 
