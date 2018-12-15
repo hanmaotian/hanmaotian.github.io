@@ -2,7 +2,17 @@
 
 
 
+[青岛科技大学](http://www.qust.edu.cn)
+
+
 [这也算个网页吧？](http://hanmaotian.github.io/1)
+
+
+[分享点资源](https://hanmaotian.github.io/1.github.io)
+
+
+[Github 使用教程，看不懂的话可以网页翻译一下](https://pages.github.com)
+
 
 [有问题问百度啊](http://www.baidu.com)
 
@@ -22,11 +32,6 @@
 
 
    😍
-
-
-
-[另一个仓库里边儿的背景](https://hanmaotian.github.io/1.github.io)
-
 
 
 
